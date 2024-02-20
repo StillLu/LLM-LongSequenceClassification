@@ -7,6 +7,6 @@
 
 
 #### Step 2: Prerequisites
-'''
+```
 pip install transformers --upgrade
-'''
+```
