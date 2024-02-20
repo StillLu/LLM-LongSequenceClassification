@@ -4,3 +4,9 @@
 * Meta approval: https://ai.meta.com/resources/models-and-libraries/llama-downloads/
 * WRITE access token: https://huggingface.co/settings/tokens)
 * Execute huggingface-cli login
+
+
+#### Step 2: Prerequisites
+'''
+pip install transformers --upgrade
+'''
