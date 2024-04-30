@@ -8,7 +8,7 @@
 
 #### Step 2: Prerequisites
 ```
-pip install transformers --upgrade
+pip install transformers --upgrade (to 4.38.0)
 pip install trl==0.4.7
 pip install peft==0.4.0
 pip install accelerate==0.25.0
